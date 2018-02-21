@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493099919014",
+    "firebase_url": "https://yukotestapp2.firebaseio.com",
+    "project_id": "yukotestapp2",
+    "storage_bucket": "yukotestapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493099919014:android:d290735e17e2423d",
+        "android_client_info": {
+          "package_name": "com.example.anantgupta.yuko_testapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493099919014-cjiif1eekd1qj7k1l8q3um1g8kqpgs3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anantgupta.yuko_testapp2",
+            "certificate_hash": "4f8a11368e15a507eadca9caa5f9325c67c031c5"
+          }
+        },
+        {
+          "client_id": "493099919014-kilpq29ld0qq1t4v47uuppg0af6rkhnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4crXbJ68jBB3wlfPPjkZk9xErtViVKa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493099919014-kilpq29ld0qq1t4v47uuppg0af6rkhnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
